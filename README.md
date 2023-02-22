@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Projects, That help me to improve my skills**
 
-- 👨‍💻 All of my projects are available at [https://dynamic-folio.netlify.app/](https://dynamic-folio.netlify.app/)
-
 - 💬 Ask me about **React JS, Nest JS and Database**
 
 - 📫 How to reach me **mbabarwaseem@gmail.com**
@@ -31,8 +29,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mbabarwasem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mbabarwasem" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbabarwaseem&show_icons=true&locale=en" alt="muhammadbabarwaseem" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhammadbabarwaseem&show_icons=true&locale=en" alt="muhammadbabarwaseem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbabarwaseem&" alt="muhammadbabarwaseem" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbabarwaseem&" alt="muhammadbabarwaseem" /></p>
