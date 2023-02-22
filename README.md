@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce App**
+- 🔭 I’m currently working on **Full Stack Expense App Using React & Nest JS**
 
-- 🌱 I’m currently learning **React, Nest Js, DB, **
+- 🌱 I’m currently learning **JS, Nest JS, MONGO, PostgreSQL, **
 
 - 👯 I’m looking to collaborate on **Projects, That help me to improve my skills**
 
