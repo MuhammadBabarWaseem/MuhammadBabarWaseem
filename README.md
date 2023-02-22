@@ -30,7 +30,7 @@
 <p><a href="https://www.buymeacoffee.com/mbabarwasem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mbabarwasem" /></a></p><br><br> <br>
 
 <div>
-<p><img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
+<p><img align="right" height="170" width="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhammadbabarwaseem&show_icons=true&locale=en" alt="muhammadbabarwaseem" /></p> </div>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbabarwaseem&" alt="muhammadbabarwaseem" /></p>
