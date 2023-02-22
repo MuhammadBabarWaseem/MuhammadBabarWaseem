@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Projects, That help me to improve my skills**
 
-- 💬 Ask me about **JS , React, Nest JS, Firebase**
+- 💬 Ask me about **JS , Nest JS, JWT, Hashing & Salting**
 
 - 📫 How to reach me **mbabarwaseem@gmail.com**
 
