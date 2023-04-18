@@ -32,12 +32,12 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <div>
-<p><img  align="right" width="380"src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
+<p><img  align="right" width="350"src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbabarwaseem&" alt="muhammadbabarwaseem" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhammadbabarwaseem&show_icons=true&locale=en" alt="muhammadbabarwaseem" /></p> </div>
 
 <h3>🏆 GitHub Trophies</h3>
-<p style={padding:"5px"}> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadbabarwaseem" alt="muhammadbabarwaseem" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadbabarwaseem" alt="muhammadbabarwaseem" /></a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mbabarwasem"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mbabarwasem" /></a></p><br><br>
