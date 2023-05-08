@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Amazon Clone Using Nest JS, React JS, Stripe And MongoDB**
 
-- 🌱 I’m currently learning **JS, Nest JS, Mongo DB, PostgreSQL**
+- 🌱 I’m currently learning **JS, Nest JS, Next JS, React JS**
 
 - 👯 I’m looking to collaborate on **Projects, That help me to improve my skills**
 
