@@ -1,18 +1,18 @@
 <img src="https://github.com/MuhammadBabarWaseem/MuhammadBabarWaseem/blob/main/5454f6f8-abf2-4f38-b4f5-501bfb0a3d25.jfif" alt="BANNER">
 <h1 align="center">Hi 👋, I'm M Babar Waseem</h1>
-<h3 align="center">A passionate Javascript Developer</h3>
+<h3 align="center">A Passionate Javascript Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47yec7vuv30loscmt8qldzeewismgz6pgvd4io4ojb&rid=giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadbabarwaseem&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadbabarwaseem" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mbabarwaseem" target="blank"><img src="https://img.shields.io/twitter/follow/mbabarwaseem?logo=twitter&style=for-the-badge" alt="mbabarwaseem" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Amazon Clone Using Nest JS, React JS, Stripe And MongoDB**
+- 🔭 I’m currently working on **MERN Stack AirBNB Clone**
 
 - 🌱 I’m currently learning **JS, Nest JS, Next JS, React JS**
 
 - 👯 I’m looking to collaborate on **Projects, That help me to improve my skills**
 
-- 💬 Ask me about **React JS, Nest JS and Database**
+- 💬 Ask me about **NodeJS, NextJS, React JS, Nest JS and Database**
 
 - 📫 How to reach me **mbabarwaseem@gmail.com**
 <br>
