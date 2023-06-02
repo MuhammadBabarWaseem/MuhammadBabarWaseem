@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/MuhammadBabarWaseem/MuhammadBabarWaseem/blob/main/Babar's_Cover.png" alt="BANNER">
+<img align="center" src="https://github.com/MuhammadBabarWaseem/MuhammadBabarWaseem/blob/main/Github Header.png" alt="BANNER">
 <h1 align="center">Hi 👋, I'm M Babar Waseem</h1>
 <h3 align="center">A Passionate Javascript Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47yec7vuv30loscmt8qldzeewismgz6pgvd4io4ojb&rid=giphy.gif">
