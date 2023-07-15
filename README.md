@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mbabarwaseem" target="blank"><img src="https://img.shields.io/twitter/follow/mbabarwaseem?logo=twitter&style=for-the-badge" alt="mbabarwaseem" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack AirBNB Clone**
+- 🔭 I’m currently working on **Full Stack Event Management System**
 
 - 🌱 I’m currently learning **JS, Nest JS, Next JS, React JS**
 
