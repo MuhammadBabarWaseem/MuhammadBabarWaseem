@@ -31,11 +31,12 @@
 <br>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <div>
-<p><img  align="right" width="320"src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
 <div align="center">
+ <p><img  align="right" width="320"src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbabarwaseem&theme=dark" alt="Muhammad Babar Waseem" /></p>
-  </div>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhammadbabarwaseem&show_icons=true&locale=en" alt="muhammadbabarwaseem" /></p> </div>
+ <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhammadbabarwaseem&show_icons=true&locale=en" alt="muhammadbabarwaseem" /></p> Ï
+ </div>
+</div>
 
 <h3>🏆 GitHub Trophies</h3>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadbabarwaseem" alt="muhammadbabarwaseem" /></a> </p>
