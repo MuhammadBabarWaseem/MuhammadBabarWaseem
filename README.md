@@ -35,18 +35,16 @@
  <p><img  align="right" width="320"src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbabarwaseem&theme=dark" alt="Muhammad Babar Waseem" /></p>
  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhammadbabarwaseem&show_icons=true&locale=en" alt="muhammadbabarwaseem" /></p>
- </div>
-</div>
-
-<h3>🏆 GitHub Trophies</h3>
+ <h3>🏆 GitHub Trophies</h3>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadbabarwaseem" alt="muhammadbabarwaseem" /></a> </p>
-<center>
-### ✍️ Random Dev Quote
+
+ ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mbabarwasem"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mbabarwasem" /></a></p><br><br>
-</center>
+ </div>
+</div>
 </div>
 </center>
 
