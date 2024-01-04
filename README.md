@@ -1,3 +1,4 @@
+<center>
 <img align="center" src="https://github.com/MuhammadBabarWaseem/MuhammadBabarWaseem/blob/main/Github Header.png" alt="BANNER">
 <h1 align="center">Hi 👋, I'm M Babar Waseem</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
@@ -31,7 +32,9 @@
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <div>
 <p><img  align="right" width="320"src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbabarwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadbabarwaseem" /></p>
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbabarwaseem&" alt="muhammadbabarwaseem" /></p>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbabarwaseem&theme=dark" alt="Muhammad Babar Waseem" /></p>
+  </div>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhammadbabarwaseem&show_icons=true&locale=en" alt="muhammadbabarwaseem" /></p> </div>
 
 <h3>🏆 GitHub Trophies</h3>
@@ -43,4 +46,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mbabarwasem"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mbabarwasem" /></a></p><br><br>
 </div>
+</center>
 
