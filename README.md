@@ -16,8 +16,6 @@
 
 💬 Ask me about **NodeJS, NextJS, React JS, Nest JS and Database**
 
-📫 How to reach me **mbabarwaseem@gmail.com**
-
  </div>
  
 <div align="center"> 
