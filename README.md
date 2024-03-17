@@ -40,8 +40,8 @@
 <div align="center">
 <!--     <img src="https://skillicons.dev/icons?i=,mongodb,mysql,postgresql,supabase,firebase,docker,git,postman,vscode,,planetscale" /> -->
  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,mui,tailwind" /> <br/>
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,typescript" />
- <img src="https://skillicons.dev/icons?i=react,next,nest,express,nodejs,bun,graphql,aws,apollo,appwrite,threejs" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,typescript,aws" />
+ <img src="https://skillicons.dev/icons?i=react,next,nest,express,nodejs,bun,graphql,apollo,appwrite,threejs" />
  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase,docker,git,planetscale" />
  <br>
 </div>
