@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **LLM, RAGS, System Architecture**
 
-💬 Ask me about **NodeJS, NextJS, React JS, Nest JS and Database**
+💬 Ask me about **React Native, NodeJS, NextJS, React JS, Nest JS and Database**
 
  </div>
  
