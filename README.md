@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Full Stack Web & App Development**
  
- 🌱 I’m currently learning **JS, Next JS, React JS, DSA**
+ 🌱 I’m currently learning **LLM, RAGS, System Architecture**
 
 💬 Ask me about **NodeJS, NextJS, React JS, Nest JS and Database**
 
