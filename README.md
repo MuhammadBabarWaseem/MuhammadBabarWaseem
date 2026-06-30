@@ -231,7 +231,7 @@ $ whoami
 <!-- SUPPORT -->
 <div align="center">
   <h3>☕ Support My Work</h3>
-  <a href="https://www.buymeacoffee.com/mbabarwaseem" target="_blank">
+  <a href="https://buymeacoffee.com/mbabarwasem" target="_blank">
     <img height="50" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee" />
   </a>
 </div>
